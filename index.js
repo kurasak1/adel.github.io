@@ -14,21 +14,21 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'inm/eyedress.mp3',
+        path: 'eyedress.mp3',
         displayName: 'She looks just like a dream',
-        cover: 'inm/1.png',
+        cover: '1.png',
         artist: 'Eyedress, Dent May',
     },
     {
-        path: 'inm/cloud.mp3',
+        path: 'cloud.mp3',
         displayName: 'Moment',
-        cover: 'inm/2.jpg',
+        cover: '2.jpg',
         artist: 'Vierre Cloud ',
     },
     {
-        path: 'inm/renegade.mp3',
+        path: 'renegade.mp3',
         displayName: 'Renegade',
-        cover: 'inm/3.jpg',
+        cover: '3.jpg',
         artist: 'Aaryan Shah',
     }
 ];
